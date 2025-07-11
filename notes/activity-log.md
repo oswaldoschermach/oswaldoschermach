@@ -55,3 +55,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-07-11 09:15: Revisar nota sobre spring boot
 - 2025-07-11 11:45: Atualizar snippet kafka
 - 2025-07-11 14:20: Documentar padrão retry
+- 2025-07-11 17:35: Anotar fluxo pix
