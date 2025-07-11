@@ -52,3 +52,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-06-23: Revisar nota API pagination
 - 2026-06-30: Documentar convenção commit messages
 - 2026-07-08: Finalizar revisão anual do activity log
+- 2025-07-11 09:15: Revisar nota sobre spring boot
