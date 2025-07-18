@@ -70,3 +70,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-07-16 17:35: Anotar health checks
 - 2025-07-18 09:15: Melhorar padrão outbox
 - 2025-07-18 11:45: Atualizar aws s3 notes
+- 2025-07-18 14:20: Documentar logs estruturados
