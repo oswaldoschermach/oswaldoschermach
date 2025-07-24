@@ -782,3 +782,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-07-17 17:35: Atualizar nota postgresql
 - 2025-07-24 09:15: Documentar ci/cd
 - 2025-07-24 11:45: Anotar rabbitmq pattern
+- 2025-07-24 14:20: Revisar circuit breaker
