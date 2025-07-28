@@ -91,3 +91,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-07-28 09:15: Melhorar anti-corruption layer
 - 2025-07-28 11:45: Atualizar grafana dashboards
 - 2025-07-28 14:20: Documentar dlq
+- 2025-07-28 17:35: Revisar openapi snippet
