@@ -784,3 +784,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-07-24 11:45: Anotar rabbitmq pattern
 - 2025-07-24 14:20: Revisar circuit breaker
 - 2025-07-24 17:35: Melhorar nota idempotência
+- 2025-08-01 09:15: Atualizar docker notes
