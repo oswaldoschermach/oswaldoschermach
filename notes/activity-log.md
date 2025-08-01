@@ -787,3 +787,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-01 09:15: Atualizar docker notes
 - 2025-08-01 11:45: Documentar batch processing
 - 2025-08-01 14:20: Revisar mongodb indexes
+- 2025-08-01 17:35: Anotar health checks
