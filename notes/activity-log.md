@@ -107,3 +107,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-04 09:15: Atualizar saga orchestration
 - 2025-08-04 11:45: Documentar idempotent consumer
 - 2025-08-04 14:20: Revisar partition strategy
+- 2025-08-04 17:35: Anotar observability stack
