@@ -119,3 +119,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-07 09:15: Melhorar exemplo rest
 - 2025-08-07 11:45: Registrar checklist observabilidade
 - 2025-08-07 14:20: Revisar hexagonal architecture
+- 2025-08-07 17:35: Atualizar nota postgresql
