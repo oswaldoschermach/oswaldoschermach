@@ -789,3 +789,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-01 14:20: Revisar mongodb indexes
 - 2025-08-01 17:35: Anotar health checks
 - 2025-08-08 09:15: Melhorar padrão outbox
+- 2025-08-08 11:45: Atualizar aws s3 notes
