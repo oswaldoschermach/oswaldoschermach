@@ -125,3 +125,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-11 14:20: Revisar circuit breaker
 - 2025-08-11 17:35: Melhorar nota idempotência
 - 2025-08-12 09:15: Atualizar docker notes
+- 2025-08-12 11:45: Documentar batch processing
