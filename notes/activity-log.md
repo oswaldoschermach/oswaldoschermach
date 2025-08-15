@@ -137,3 +137,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-14 14:20: Atualizar bean validation
 - 2025-08-14 17:35: Documentar redis cache
 - 2025-08-15 09:15: Revisar api versioning
+- 2025-08-15 11:45: Anotar rate limiting
