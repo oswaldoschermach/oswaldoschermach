@@ -145,3 +145,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-18 14:20: Anotar code review checklist
 - 2025-08-18 17:35: Melhorar semantic versioning
 - 2025-08-19 09:15: Atualizar connection pool
+- 2025-08-19 11:45: Documentar secret rotation
