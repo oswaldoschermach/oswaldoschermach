@@ -148,3 +148,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-19 11:45: Documentar secret rotation
 - 2025-08-19 14:20: Revisar load testing
 - 2025-08-19 17:35: Anotar structured concurrency
+- 2025-08-20 09:15: Melhorar anti-corruption layer
