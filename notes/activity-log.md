@@ -159,3 +159,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-22 09:15: Revisar transactions
 - 2025-08-22 11:45: Anotar database migrations
 - 2025-08-22 14:20: Melhorar jvm profiling notes
+- 2025-08-22 17:35: Atualizar api pagination
