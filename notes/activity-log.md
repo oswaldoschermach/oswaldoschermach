@@ -163,3 +163,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-25 09:15: Documentar commit conventions
 - 2025-08-25 11:45: Revisar microservices boundaries
 - 2025-08-25 14:20: Anotar message ordering
+- 2025-08-25 17:35: Melhorar timeout policies
