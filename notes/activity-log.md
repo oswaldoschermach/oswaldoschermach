@@ -169,3 +169,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-26 14:20: Revisar partition strategy
 - 2025-08-26 17:35: Anotar observability stack
 - 2025-08-27 09:15: Melhorar error handling
+- 2025-08-27 11:45: Atualizar resilience patterns
