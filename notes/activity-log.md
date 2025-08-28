@@ -172,3 +172,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-27 11:45: Atualizar resilience patterns
 - 2025-08-27 14:20: Documentar service mesh notes
 - 2025-08-27 17:35: Revisar caching strategy
+- 2025-08-28 09:15: Revisar nota sobre spring boot
