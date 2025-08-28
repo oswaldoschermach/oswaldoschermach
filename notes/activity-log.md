@@ -174,3 +174,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-27 17:35: Revisar caching strategy
 - 2025-08-28 09:15: Revisar nota sobre spring boot
 - 2025-08-28 11:45: Atualizar snippet kafka
+- 2025-08-28 14:20: Documentar padrão retry
