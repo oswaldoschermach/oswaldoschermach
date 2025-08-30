@@ -9,3 +9,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-08: Ajustar exemplo de DTO REST
 - 2025-08-16: Registrar checklist de observabilidade
 - 2025-08-23: Melhorar nota sobre hexagonal architecture
+- 2025-08-30: Adicionar referência PostgreSQL tuning
