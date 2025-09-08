@@ -203,3 +203,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-08 09:15: Documentar odoo rpc
 - 2025-09-08 11:45: Revisar event sourcing
 - 2025-09-08 14:20: Anotar code review checklist
+- 2025-09-08 17:35: Melhorar semantic versioning
