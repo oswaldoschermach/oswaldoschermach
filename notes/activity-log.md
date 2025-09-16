@@ -225,3 +225,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-15 14:20: Anotar message ordering
 - 2025-09-15 17:35: Melhorar timeout policies
 - 2025-09-16 09:15: Atualizar saga orchestration
+- 2025-09-16 11:45: Documentar idempotent consumer
