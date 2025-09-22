@@ -12,3 +12,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-08-30: Adicionar referência PostgreSQL tuning
 - 2025-09-07: Atualizar lembrete CI/CD pipeline
 - 2025-09-14: Revisar nota sobre RabbitMQ exchanges
+- 2025-09-22: Anotar padrão circuit breaker
