@@ -241,3 +241,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-19 14:20: Revisar hexagonal architecture
 - 2025-09-19 17:35: Atualizar nota postgresql
 - 2025-09-23 09:15: Documentar ci/cd
+- 2025-09-23 11:45: Anotar rabbitmq pattern
