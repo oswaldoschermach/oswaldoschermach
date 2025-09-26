@@ -254,3 +254,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-25 17:35: Revisar feature flags
 - 2025-09-26 09:15: Anotar contract testing
 - 2025-09-26 11:45: Melhorar saga pattern
+- 2025-09-26 14:20: Atualizar bean validation
