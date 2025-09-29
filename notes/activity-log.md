@@ -799,3 +799,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-29 09:15: Revisar api versioning
 - 2025-09-29 11:45: Anotar rate limiting
 - 2025-09-29 14:20: Melhorar graceful shutdown
+- 2025-09-29 17:35: Atualizar kotlin notes
