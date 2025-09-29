@@ -13,3 +13,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-07: Atualizar lembrete CI/CD pipeline
 - 2025-09-14: Revisar nota sobre RabbitMQ exchanges
 - 2025-09-22: Anotar padrão circuit breaker
+- 2025-09-29: Documentar estratégia de idempotência
