@@ -256,3 +256,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-26 11:45: Melhorar saga pattern
 - 2025-09-26 14:20: Atualizar bean validation
 - 2025-09-26 17:35: Documentar redis cache
+- 2025-09-30 09:15: Revisar api versioning
