@@ -267,3 +267,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-02 09:15: Atualizar connection pool
 - 2025-10-02 11:45: Documentar secret rotation
 - 2025-10-02 14:20: Revisar load testing
+- 2025-10-02 17:35: Anotar structured concurrency
