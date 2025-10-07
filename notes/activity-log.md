@@ -273,3 +273,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-03 14:20: Documentar dlq
 - 2025-10-03 17:35: Revisar openapi snippet
 - 2025-10-07 09:15: Anotar blue-green deploy
+- 2025-10-07 11:45: Melhorar bulkhead pattern
