@@ -277,3 +277,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-07 14:20: Atualizar backoff strategy
 - 2025-10-07 17:35: Documentar trunk-based flow
 - 2025-10-08 09:15: Revisar transactions
+- 2025-10-08 11:45: Anotar database migrations
