@@ -288,3 +288,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-10 11:45: Documentar idempotent consumer
 - 2025-10-10 14:20: Revisar partition strategy
 - 2025-10-10 17:35: Anotar observability stack
+- 2025-10-13 09:15: Melhorar error handling
