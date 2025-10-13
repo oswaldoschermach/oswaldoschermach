@@ -290,3 +290,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-10 17:35: Anotar observability stack
 - 2025-10-13 09:15: Melhorar error handling
 - 2025-10-13 11:45: Atualizar resilience patterns
+- 2025-10-13 14:20: Documentar service mesh notes
