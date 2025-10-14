@@ -804,3 +804,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-06 11:45: Revisar event sourcing
 - 2025-10-06 14:20: Anotar code review checklist
 - 2025-10-06 17:35: Melhorar semantic versioning
+- 2025-10-14 09:15: Atualizar connection pool
