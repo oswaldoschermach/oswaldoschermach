@@ -15,3 +15,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-09-22: Anotar padrão circuit breaker
 - 2025-09-29: Documentar estratégia de idempotência
 - 2025-10-06: Atualizar nota Docker multi-stage
+- 2025-10-14: Registrar insight sobre batch processing
