@@ -297,3 +297,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-15 14:20: Documentar padrão retry
 - 2025-10-15 17:35: Anotar fluxo pix
 - 2025-10-16 09:15: Melhorar exemplo rest
+- 2025-10-16 11:45: Registrar checklist observabilidade
