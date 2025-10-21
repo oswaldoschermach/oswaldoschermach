@@ -808,3 +808,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-14 11:45: Documentar secret rotation
 - 2025-10-14 14:20: Revisar load testing
 - 2025-10-14 17:35: Anotar structured concurrency
+- 2025-10-21 09:15: Melhorar anti-corruption layer
