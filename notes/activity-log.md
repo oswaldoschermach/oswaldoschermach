@@ -313,3 +313,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-22 14:20: Documentar logs estruturados
 - 2025-10-22 17:35: Revisar feature flags
 - 2025-10-23 09:15: Anotar contract testing
+- 2025-10-23 11:45: Melhorar saga pattern
