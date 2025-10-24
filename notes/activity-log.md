@@ -318,3 +318,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-23 17:35: Documentar redis cache
 - 2025-10-24 09:15: Revisar api versioning
 - 2025-10-24 11:45: Anotar rate limiting
+- 2025-10-24 14:20: Melhorar graceful shutdown
