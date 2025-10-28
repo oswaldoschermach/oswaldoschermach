@@ -326,3 +326,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-27 17:35: Melhorar semantic versioning
 - 2025-10-28 09:15: Atualizar connection pool
 - 2025-10-28 11:45: Documentar secret rotation
+- 2025-10-28 14:20: Revisar load testing
