@@ -329,3 +329,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-28 14:20: Revisar load testing
 - 2025-10-28 17:35: Anotar structured concurrency
 - 2025-10-30 09:15: Melhorar anti-corruption layer
+- 2025-10-30 11:45: Atualizar grafana dashboards
