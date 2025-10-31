@@ -332,3 +332,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-30 11:45: Atualizar grafana dashboards
 - 2025-10-30 14:20: Documentar dlq
 - 2025-10-30 17:35: Revisar openapi snippet
+- 2025-10-31 09:15: Anotar blue-green deploy
