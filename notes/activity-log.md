@@ -338,3 +338,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-31 17:35: Documentar trunk-based flow
 - 2025-11-03 09:15: Revisar transactions
 - 2025-11-03 11:45: Anotar database migrations
+- 2025-11-03 14:20: Melhorar jvm profiling notes
