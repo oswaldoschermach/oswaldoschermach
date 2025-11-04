@@ -341,3 +341,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-03 14:20: Melhorar jvm profiling notes
 - 2025-11-03 17:35: Atualizar api pagination
 - 2025-11-04 09:15: Documentar commit conventions
+- 2025-11-04 11:45: Revisar microservices boundaries
