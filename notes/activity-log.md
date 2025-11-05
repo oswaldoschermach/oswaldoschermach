@@ -18,3 +18,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-10-14: Registrar insight sobre batch processing
 - 2025-10-21: Melhorar nota MongoDB indexes
 - 2025-10-29: Adicionar lembrete health checks
+- 2025-11-05: Revisar padrão outbox
