@@ -346,3 +346,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-04 17:35: Melhorar timeout policies
 - 2025-11-06 09:15: Atualizar saga orchestration
 - 2025-11-06 11:45: Documentar idempotent consumer
+- 2025-11-06 14:20: Revisar partition strategy
