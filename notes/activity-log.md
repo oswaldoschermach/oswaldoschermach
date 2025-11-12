@@ -822,3 +822,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-05 17:35: Atualizar api pagination
 - 2025-11-12 09:15: Documentar commit conventions
 - 2025-11-12 11:45: Revisar microservices boundaries
+- 2025-11-12 14:20: Anotar message ordering
