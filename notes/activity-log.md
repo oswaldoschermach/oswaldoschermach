@@ -366,3 +366,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-13 17:35: Melhorar nota idempotência
 - 2025-11-14 09:15: Atualizar docker notes
 - 2025-11-14 11:45: Documentar batch processing
+- 2025-11-14 14:20: Revisar mongodb indexes
