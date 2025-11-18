@@ -372,3 +372,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-17 11:45: Atualizar aws s3 notes
 - 2025-11-17 14:20: Documentar logs estruturados
 - 2025-11-17 17:35: Revisar feature flags
+- 2025-11-18 09:15: Anotar contract testing
