@@ -824,3 +824,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-12 11:45: Revisar microservices boundaries
 - 2025-11-12 14:20: Anotar message ordering
 - 2025-11-12 17:35: Melhorar timeout policies
+- 2025-11-20 09:15: Atualizar saga orchestration
