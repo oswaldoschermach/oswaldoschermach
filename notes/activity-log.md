@@ -381,3 +381,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-19 14:20: Melhorar graceful shutdown
 - 2025-11-19 17:35: Atualizar kotlin notes
 - 2025-11-21 09:15: Documentar odoo rpc
+- 2025-11-21 11:45: Revisar event sourcing
