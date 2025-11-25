@@ -390,3 +390,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-24 17:35: Anotar structured concurrency
 - 2025-11-25 09:15: Melhorar anti-corruption layer
 - 2025-11-25 11:45: Atualizar grafana dashboards
+- 2025-11-25 14:20: Documentar dlq
