@@ -395,3 +395,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-26 09:15: Anotar blue-green deploy
 - 2025-11-26 11:45: Melhorar bulkhead pattern
 - 2025-11-26 14:20: Atualizar backoff strategy
+- 2025-11-26 17:35: Documentar trunk-based flow
