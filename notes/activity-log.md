@@ -831,3 +831,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-27 09:15: Melhorar error handling
 - 2025-11-27 11:45: Atualizar resilience patterns
 - 2025-11-27 14:20: Documentar service mesh notes
+- 2025-11-27 17:35: Revisar caching strategy
