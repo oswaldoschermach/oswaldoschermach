@@ -22,3 +22,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-12: Atualizar nota AWS S3 lifecycle
 - 2025-11-20: Documentar convenção de logs estruturados
 - 2025-11-27: Anotar prática de feature flags
+- 2025-12-05: Melhorar nota testes de contrato
