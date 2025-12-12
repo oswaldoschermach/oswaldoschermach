@@ -23,3 +23,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-11-20: Documentar convenção de logs estruturados
 - 2025-11-27: Anotar prática de feature flags
 - 2025-12-05: Melhorar nota testes de contrato
+- 2025-12-12: Registrar padrão saga distribuída
