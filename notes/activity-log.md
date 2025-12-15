@@ -435,3 +435,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-15 09:15: Anotar contract testing
 - 2025-12-15 11:45: Melhorar saga pattern
 - 2025-12-15 14:20: Atualizar bean validation
+- 2025-12-15 17:35: Documentar redis cache
