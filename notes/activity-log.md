@@ -840,3 +840,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-12 11:45: Registrar checklist observabilidade
 - 2025-12-12 14:20: Revisar hexagonal architecture
 - 2025-12-12 17:35: Atualizar nota postgresql
+- 2025-12-19 09:15: Documentar ci/cd
