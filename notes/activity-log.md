@@ -456,3 +456,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-23 11:45: Melhorar bulkhead pattern
 - 2025-12-23 14:20: Atualizar backoff strategy
 - 2025-12-23 17:35: Documentar trunk-based flow
+- 2025-12-24 09:15: Revisar transactions
