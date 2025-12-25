@@ -460,3 +460,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-24 11:45: Anotar database migrations
 - 2025-12-24 14:20: Melhorar jvm profiling notes
 - 2025-12-24 17:35: Atualizar api pagination
+- 2025-12-25 09:15: Documentar commit conventions
