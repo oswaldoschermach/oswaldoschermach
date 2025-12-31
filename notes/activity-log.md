@@ -478,3 +478,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-30 17:35: Anotar fluxo pix
 - 2025-12-31 09:15: Melhorar exemplo rest
 - 2025-12-31 11:45: Registrar checklist observabilidade
+- 2025-12-31 14:20: Revisar hexagonal architecture
