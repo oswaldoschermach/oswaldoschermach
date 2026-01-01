@@ -483,3 +483,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-01 09:15: Documentar ci/cd
 - 2026-01-01 11:45: Anotar rabbitmq pattern
 - 2026-01-01 14:20: Revisar circuit breaker
+- 2026-01-01 17:35: Melhorar nota idempotência
