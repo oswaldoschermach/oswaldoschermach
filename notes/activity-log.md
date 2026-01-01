@@ -481,3 +481,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-31 14:20: Revisar hexagonal architecture
 - 2025-12-31 17:35: Atualizar nota postgresql
 - 2026-01-01 09:15: Documentar ci/cd
+- 2026-01-01 11:45: Anotar rabbitmq pattern
