@@ -487,3 +487,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-02 09:15: Atualizar docker notes
 - 2026-01-02 11:45: Documentar batch processing
 - 2026-01-02 14:20: Revisar mongodb indexes
+- 2026-01-02 17:35: Anotar health checks
