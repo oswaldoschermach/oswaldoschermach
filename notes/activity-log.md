@@ -489,3 +489,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-02 14:20: Revisar mongodb indexes
 - 2026-01-02 17:35: Anotar health checks
 - 2026-01-05 09:15: Melhorar padrão outbox
+- 2026-01-05 11:45: Atualizar aws s3 notes
