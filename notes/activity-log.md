@@ -495,3 +495,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-06 09:15: Anotar contract testing
 - 2026-01-06 11:45: Melhorar saga pattern
 - 2026-01-06 14:20: Atualizar bean validation
+- 2026-01-06 17:35: Documentar redis cache
