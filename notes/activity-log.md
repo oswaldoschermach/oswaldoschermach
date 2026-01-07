@@ -498,3 +498,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-06 17:35: Documentar redis cache
 - 2026-01-07 09:15: Revisar api versioning
 - 2026-01-07 11:45: Anotar rate limiting
+- 2026-01-07 14:20: Melhorar graceful shutdown
