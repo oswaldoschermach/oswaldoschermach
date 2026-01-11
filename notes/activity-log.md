@@ -27,3 +27,4 @@ Registro de atualizações incrementais do perfil.
 - 2025-12-19: Atualizar snippet validação Bean Validation
 - 2025-12-27: Revisar nota cache Redis
 - 2026-01-03: Documentar estratégia de versionamento API
+- 2026-01-11: Adicionar lembrete rate limiting
