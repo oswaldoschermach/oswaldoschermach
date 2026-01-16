@@ -527,3 +527,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-16 09:15: Atualizar saga orchestration
 - 2026-01-16 11:45: Documentar idempotent consumer
 - 2026-01-16 14:20: Revisar partition strategy
+- 2026-01-16 17:35: Anotar observability stack
