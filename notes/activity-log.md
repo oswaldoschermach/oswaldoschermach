@@ -530,3 +530,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-16 17:35: Anotar observability stack
 - 2026-01-19 09:15: Melhorar error handling
 - 2026-01-19 11:45: Atualizar resilience patterns
+- 2026-01-19 14:20: Documentar service mesh notes
