@@ -532,3 +532,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-19 11:45: Atualizar resilience patterns
 - 2026-01-19 14:20: Documentar service mesh notes
 - 2026-01-19 17:35: Revisar caching strategy
+- 2026-01-20 09:15: Revisar nota sobre spring boot
