@@ -545,3 +545,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-22 14:20: Revisar circuit breaker
 - 2026-01-22 17:35: Melhorar nota idempotência
 - 2026-01-23 09:15: Atualizar docker notes
+- 2026-01-23 11:45: Documentar batch processing
