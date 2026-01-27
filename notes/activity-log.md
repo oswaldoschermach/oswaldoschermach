@@ -551,3 +551,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-27 09:15: Melhorar padrão outbox
 - 2026-01-27 11:45: Atualizar aws s3 notes
 - 2026-01-27 14:20: Documentar logs estruturados
+- 2026-01-27 17:35: Revisar feature flags
