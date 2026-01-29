@@ -557,3 +557,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-28 14:20: Atualizar bean validation
 - 2026-01-28 17:35: Documentar redis cache
 - 2026-01-29 09:15: Revisar api versioning
+- 2026-01-29 11:45: Anotar rate limiting
