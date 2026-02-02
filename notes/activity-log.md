@@ -848,3 +848,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-26 11:45: Documentar batch processing
 - 2026-01-26 14:20: Revisar mongodb indexes
 - 2026-01-26 17:35: Anotar health checks
+- 2026-02-02 09:15: Melhorar padrão outbox
