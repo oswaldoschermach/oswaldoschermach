@@ -30,3 +30,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-11: Adicionar lembrete rate limiting
 - 2026-01-18: Melhorar nota graceful shutdown
 - 2026-01-26: Atualizar referência Kotlin coroutines
+- 2026-02-02: Registrar nota integração Odoo RPC
