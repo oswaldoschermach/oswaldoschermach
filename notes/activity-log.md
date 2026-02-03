@@ -566,3 +566,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-30 17:35: Melhorar semantic versioning
 - 2026-02-03 09:15: Atualizar connection pool
 - 2026-02-03 11:45: Documentar secret rotation
+- 2026-02-03 14:20: Revisar load testing
