@@ -577,3 +577,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-05 14:20: Atualizar backoff strategy
 - 2026-02-05 17:35: Documentar trunk-based flow
 - 2026-02-06 09:15: Revisar transactions
+- 2026-02-06 11:45: Anotar database migrations
