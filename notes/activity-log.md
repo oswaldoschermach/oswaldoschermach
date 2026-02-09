@@ -853,3 +853,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-02 14:20: Documentar logs estruturados
 - 2026-02-02 17:35: Revisar feature flags
 - 2026-02-09 09:15: Anotar contract testing
+- 2026-02-09 11:45: Melhorar saga pattern
