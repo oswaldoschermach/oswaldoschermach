@@ -583,3 +583,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-10 09:15: Documentar commit conventions
 - 2026-02-10 11:45: Revisar microservices boundaries
 - 2026-02-10 14:20: Anotar message ordering
+- 2026-02-10 17:35: Melhorar timeout policies
