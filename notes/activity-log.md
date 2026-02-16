@@ -596,3 +596,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-13 11:45: Atualizar snippet kafka
 - 2026-02-13 14:20: Documentar padrão retry
 - 2026-02-13 17:35: Anotar fluxo pix
+- 2026-02-16 09:15: Melhorar exemplo rest
