@@ -32,3 +32,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-01-26: Atualizar referência Kotlin coroutines
 - 2026-02-02: Registrar nota integração Odoo RPC
 - 2026-02-09: Revisar padrão event sourcing lite
+- 2026-02-17: Documentar checklist code review
