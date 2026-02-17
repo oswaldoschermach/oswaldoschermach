@@ -856,3 +856,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-09 11:45: Melhorar saga pattern
 - 2026-02-09 14:20: Atualizar bean validation
 - 2026-02-09 17:35: Documentar redis cache
+- 2026-02-17 09:15: Revisar api versioning
