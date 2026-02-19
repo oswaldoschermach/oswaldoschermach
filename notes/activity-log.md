@@ -604,3 +604,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-18 11:45: Anotar rabbitmq pattern
 - 2026-02-18 14:20: Revisar circuit breaker
 - 2026-02-18 17:35: Melhorar nota idempotência
+- 2026-02-19 09:15: Atualizar docker notes
