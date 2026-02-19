@@ -606,3 +606,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-18 17:35: Melhorar nota idempotência
 - 2026-02-19 09:15: Atualizar docker notes
 - 2026-02-19 11:45: Documentar batch processing
+- 2026-02-19 14:20: Revisar mongodb indexes
