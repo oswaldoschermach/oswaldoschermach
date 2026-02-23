@@ -614,3 +614,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-20 17:35: Revisar feature flags
 - 2026-02-23 09:15: Anotar contract testing
 - 2026-02-23 11:45: Melhorar saga pattern
+- 2026-02-23 14:20: Atualizar bean validation
