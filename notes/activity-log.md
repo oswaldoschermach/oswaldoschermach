@@ -860,3 +860,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-17 11:45: Anotar rate limiting
 - 2026-02-17 14:20: Melhorar graceful shutdown
 - 2026-02-17 17:35: Atualizar kotlin notes
+- 2026-02-24 09:15: Documentar odoo rpc
