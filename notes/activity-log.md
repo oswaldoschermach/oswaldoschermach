@@ -619,3 +619,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-25 09:15: Revisar api versioning
 - 2026-02-25 11:45: Anotar rate limiting
 - 2026-02-25 14:20: Melhorar graceful shutdown
+- 2026-02-25 17:35: Atualizar kotlin notes
