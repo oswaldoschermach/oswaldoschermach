@@ -623,3 +623,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-26 09:15: Documentar odoo rpc
 - 2026-02-26 11:45: Revisar event sourcing
 - 2026-02-26 14:20: Anotar code review checklist
+- 2026-02-26 17:35: Melhorar semantic versioning
