@@ -630,3 +630,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-27 17:35: Anotar structured concurrency
 - 2026-03-02 09:15: Melhorar anti-corruption layer
 - 2026-03-02 11:45: Atualizar grafana dashboards
+- 2026-03-02 14:20: Documentar dlq
