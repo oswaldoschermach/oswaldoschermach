@@ -628,3 +628,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-27 11:45: Documentar secret rotation
 - 2026-02-27 14:20: Revisar load testing
 - 2026-02-27 17:35: Anotar structured concurrency
+- 2026-03-02 09:15: Melhorar anti-corruption layer
