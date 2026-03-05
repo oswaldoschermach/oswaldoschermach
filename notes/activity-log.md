@@ -639,3 +639,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-05 09:15: Revisar transactions
 - 2026-03-05 11:45: Anotar database migrations
 - 2026-03-05 14:20: Melhorar jvm profiling notes
+- 2026-03-05 17:35: Atualizar api pagination
