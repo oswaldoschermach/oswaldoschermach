@@ -645,3 +645,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-06 14:20: Anotar message ordering
 - 2026-03-06 17:35: Melhorar timeout policies
 - 2026-03-09 09:15: Atualizar saga orchestration
+- 2026-03-09 11:45: Documentar idempotent consumer
