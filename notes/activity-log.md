@@ -35,3 +35,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-02-17: Documentar checklist code review
 - 2026-02-24: Anotar prática de semantic versioning
 - 2026-03-04: Melhorar nota connection pooling
+- 2026-03-11: Atualizar lembrete secret rotation
