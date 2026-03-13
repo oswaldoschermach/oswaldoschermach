@@ -658,3 +658,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-12 17:35: Anotar fluxo pix
 - 2026-03-13 09:15: Melhorar exemplo rest
 - 2026-03-13 11:45: Registrar checklist observabilidade
+- 2026-03-13 14:20: Revisar hexagonal architecture
