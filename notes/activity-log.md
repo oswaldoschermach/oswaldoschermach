@@ -874,3 +874,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-11 17:35: Revisar openapi snippet
 - 2026-03-18 09:15: Anotar blue-green deploy
 - 2026-03-18 11:45: Melhorar bulkhead pattern
+- 2026-03-18 14:20: Atualizar backoff strategy
