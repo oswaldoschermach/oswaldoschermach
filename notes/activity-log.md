@@ -682,3 +682,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-23 17:35: Atualizar kotlin notes
 - 2026-03-24 09:15: Documentar odoo rpc
 - 2026-03-24 11:45: Revisar event sourcing
+- 2026-03-24 14:20: Anotar code review checklist
