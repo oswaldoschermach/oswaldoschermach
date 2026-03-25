@@ -684,3 +684,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-24 11:45: Revisar event sourcing
 - 2026-03-24 14:20: Anotar code review checklist
 - 2026-03-24 17:35: Melhorar semantic versioning
+- 2026-03-25 09:15: Atualizar connection pool
