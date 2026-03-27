@@ -691,3 +691,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-27 09:15: Melhorar anti-corruption layer
 - 2026-03-27 11:45: Atualizar grafana dashboards
 - 2026-03-27 14:20: Documentar dlq
+- 2026-03-27 17:35: Revisar openapi snippet
