@@ -702,3 +702,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-31 17:35: Atualizar api pagination
 - 2026-04-01 09:15: Documentar commit conventions
 - 2026-04-01 11:45: Revisar microservices boundaries
+- 2026-04-01 14:20: Anotar message ordering
