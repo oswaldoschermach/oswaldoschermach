@@ -38,3 +38,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-03-11: Atualizar lembrete secret rotation
 - 2026-03-18: Registrar insight load testing
 - 2026-03-26: Revisar nota structured concurrency
+- 2026-04-02: Documentar padrão anti-corruption layer
