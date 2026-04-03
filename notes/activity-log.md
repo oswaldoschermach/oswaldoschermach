@@ -704,3 +704,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-01 11:45: Revisar microservices boundaries
 - 2026-04-01 14:20: Anotar message ordering
 - 2026-04-01 17:35: Melhorar timeout policies
+- 2026-04-03 09:15: Atualizar saga orchestration
