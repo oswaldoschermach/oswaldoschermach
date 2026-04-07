@@ -713,3 +713,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-06 14:20: Documentar service mesh notes
 - 2026-04-06 17:35: Revisar caching strategy
 - 2026-04-07 09:15: Revisar nota sobre spring boot
+- 2026-04-07 11:45: Atualizar snippet kafka
