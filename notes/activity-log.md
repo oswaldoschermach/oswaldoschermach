@@ -719,3 +719,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-08 09:15: Melhorar exemplo rest
 - 2026-04-08 11:45: Registrar checklist observabilidade
 - 2026-04-08 14:20: Revisar hexagonal architecture
+- 2026-04-08 17:35: Atualizar nota postgresql
