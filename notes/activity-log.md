@@ -730,3 +730,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-13 17:35: Anotar health checks
 - 2026-04-14 09:15: Melhorar padrão outbox
 - 2026-04-14 11:45: Atualizar aws s3 notes
+- 2026-04-14 14:20: Documentar logs estruturados
