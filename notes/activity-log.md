@@ -732,3 +732,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-14 11:45: Atualizar aws s3 notes
 - 2026-04-14 14:20: Documentar logs estruturados
 - 2026-04-14 17:35: Revisar feature flags
+- 2026-04-15 09:15: Anotar contract testing
