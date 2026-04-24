@@ -895,3 +895,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-24 09:15: Revisar nota sobre spring boot
 - 2026-04-24 11:45: Atualizar snippet kafka
 - 2026-04-24 14:20: Documentar padrão retry
+- 2026-04-24 17:35: Anotar fluxo pix
