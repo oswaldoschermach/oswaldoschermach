@@ -41,3 +41,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-02: Documentar padrão anti-corruption layer
 - 2026-04-10: Adicionar referência Grafana dashboards
 - 2026-04-17: Melhorar nota dead letter queue
+- 2026-04-24: Atualizar snippet OpenAPI exemplo
