@@ -756,3 +756,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-23 11:45: Melhorar bulkhead pattern
 - 2026-04-23 14:20: Atualizar backoff strategy
 - 2026-04-23 17:35: Documentar trunk-based flow
+- 2026-04-27 09:15: Revisar transactions
