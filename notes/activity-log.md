@@ -761,3 +761,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-27 14:20: Melhorar jvm profiling notes
 - 2026-04-27 17:35: Atualizar api pagination
 - 2026-04-28 09:15: Documentar commit conventions
+- 2026-04-28 11:45: Revisar microservices boundaries
