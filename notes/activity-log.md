@@ -771,3 +771,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-30 09:15: Melhorar error handling
 - 2026-04-30 11:45: Atualizar resilience patterns
 - 2026-04-30 14:20: Documentar service mesh notes
+- 2026-04-30 17:35: Revisar caching strategy
