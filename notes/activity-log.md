@@ -768,3 +768,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-29 11:45: Documentar idempotent consumer
 - 2026-04-29 14:20: Revisar partition strategy
 - 2026-04-29 17:35: Anotar observability stack
+- 2026-04-30 09:15: Melhorar error handling
