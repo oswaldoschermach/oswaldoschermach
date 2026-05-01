@@ -897,3 +897,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-24 14:20: Documentar padrão retry
 - 2026-04-24 17:35: Anotar fluxo pix
 - 2026-05-01 09:30: Revisar nota técnica
+- 2026-05-01 12:00: Atualizar activity log
