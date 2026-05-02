@@ -42,3 +42,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-10: Adicionar referência Grafana dashboards
 - 2026-04-17: Melhorar nota dead letter queue
 - 2026-04-24: Atualizar snippet OpenAPI exemplo
+- 2026-05-02: Registrar nota blue-green deploy
