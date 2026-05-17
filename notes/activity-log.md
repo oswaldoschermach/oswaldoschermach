@@ -44,3 +44,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-04-24: Atualizar snippet OpenAPI exemplo
 - 2026-05-02: Registrar nota blue-green deploy
 - 2026-05-09: Revisar padrão bulkhead
+- 2026-05-17: Documentar estratégia backoff exponencial
