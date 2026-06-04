@@ -994,3 +994,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-06-03 18:00: Revisar nota técnica
 - 2026-06-04 09:30: Atualizar activity log
 - 2026-06-04 12:00: Documentar aprendizado
+- 2026-06-04 15:10: Anotar referência útil
