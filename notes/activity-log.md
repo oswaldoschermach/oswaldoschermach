@@ -47,3 +47,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-05-17: Documentar estratégia backoff exponencial
 - 2026-05-24: Anotar prática trunk-based development
 - 2026-05-31: Melhorar nota transaction boundaries
+- 2026-06-08: Atualizar lembrete database migration
