@@ -1045,3 +1045,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-06-23 09:30: Atualizar activity log
 - 2026-06-23 12:00: Documentar aprendizado
 - 2026-06-23 15:10: Anotar referência útil
+- 2026-06-24 09:30: Melhorar snippet de estudo
