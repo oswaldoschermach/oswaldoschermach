@@ -50,3 +50,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-06-08: Atualizar lembrete database migration
 - 2026-06-15: Registrar insight profiling JVM
 - 2026-06-23: Revisar nota API pagination
+- 2026-06-30: Documentar convenção commit messages
