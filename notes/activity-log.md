@@ -51,3 +51,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-06-15: Registrar insight profiling JVM
 - 2026-06-23: Revisar nota API pagination
 - 2026-06-30: Documentar convenção commit messages
+- 2026-07-08: Finalizar revisão anual do activity log
