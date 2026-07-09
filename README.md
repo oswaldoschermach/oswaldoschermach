@@ -1,102 +1,175 @@
-# 👨‍💻 Oswaldo Schermach
+<div align="center">
 
-**Backend Engineer | Java | Microservices | Fintech & High-Scale Systems**
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header&text=Oswaldo%20Schermach&fontSize=42&fontColor=e2e8f0&animation=twinkling" alt="Oswaldo Schermach" width="100%"/>
 
-📍 Curitiba - PR, Brasil  
-🔗 [LinkedIn](https://linkedin.com/in/oswaldoschermach)  
+<p>
+  <strong>Desenvolvedor Full Stack Pleno</strong> &nbsp;|&nbsp; Java & Spring Boot &nbsp;|&nbsp; Microsserviços &nbsp;|&nbsp; Sistemas de Pagamento
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Curitiba-Paraná-0f172a?style=flat-square" alt="Localização"/>
+  <img src="https://img.shields.io/badge/Capgemini-Full_Stack_Pleno-1e293b?style=flat-square" alt="Empresa"/>
+  <a href="https://www.linkedin.com/in/oswaldoschermach/">
+    <img src="https://img.shields.io/badge/LinkedIn-oswaldoschermach-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-## 🚀 Sobre mim
-
-Engenheiro de Software especializado em **backend com Java e Spring Boot**, com foco em **arquitetura de microserviços, sistemas distribuídos e processamento assíncrono em larga escala**.
-
-Atuo no desenvolvimento de **sistemas críticos**, principalmente no setor financeiro, envolvendo **operações Pix, mensageria e aplicações de alta disponibilidade**.
-
-Também possuo experiência no desenvolvimento de **aplicações Android com Kotlin**, com foco em integração com APIs e construção de soluções end-to-end.
-
-Experiência adicional com **customização e desenvolvimento no Odoo (ERP)**, atuando em **integrações, automações e adaptação de módulos para necessidades de negócio**.
-
----
-
-## 🧠 Stack Principal
-
-**Backend**
-- Java 21
-- Spring Boot
-- Spring Batch
-
-**Mobile**
-- Kotlin (Android)
-- Desenvolvimento de aplicações Android nativas
-- Integração com APIs REST
-- Consumo de serviços backend
-
-**ERP / Backend Complementar**
-- Odoo (customização de módulos, integrações, automações)
-
-**Arquitetura**
-- Microservices
-- REST APIs
-- Arquitetura Hexagonal
-- Sistemas Distribuídos
-
-**Mensageria**
-- Kafka
-- RabbitMQ
-
-**Dados**
-- PostgreSQL
-- MongoDB
-
-**Cloud & DevOps**
-- Docker
-- AWS S3
-- CI/CD
-
-**Frontend (quando necessário)**
-- Angular
-- Ionic
-
-**Observabilidade**
-- Grafana
+</div>
 
 ---
 
-## 🎯 Especialidades
+## Sobre
 
-- Sistemas financeiros (Pix, integrações bancárias)
-- Microserviços escaláveis
-- Processamento assíncrono e mensageria
-- Desenvolvimento Android com Kotlin
-- Customização e integração com Odoo (ERP)
-- Alto volume de dados
-- Sistemas resilientes e distribuídos
+Desenvolvedor com **4+ anos de experiência** construindo sistemas escaláveis em ambientes ágeis. Atuo com **backend Java (Spring Boot)**, integração de **APIs REST**, **microsserviços**, **mensageria** e **CI/CD**, com entregas também em **Angular** e **Vue.js** quando o produto exige visão full stack.
+
+Experiência em **sistemas financeiros e de pagamento** (gateways, transações, OAuth2/JWT), **mobilidade urbana** e **automação industrial**. Valorizo código legível, observabilidade, performance e entregas consistentes em produção.
 
 ---
 
-## 📚 Formação
+## Stack
 
-Engenharia de Software
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,vue,ts,postgres,mongo,docker,kafka,rabbitmq,git,githubactions,aws,grafana&perline=8" alt="Stack principal"/>
+
+</div>
+
+<br/>
+
+| Área | Tecnologias |
+|------|-------------|
+| **Backend** | Java 8–21, Spring Boot, Spring Batch, Spring Security, JPA/Hibernate, QueryDSL |
+| **Frontend** | Angular, Vue.js, TypeScript, Ionic |
+| **Dados** | PostgreSQL, MongoDB, Redis, Flyway |
+| **Mensageria** | Kafka, RabbitMQ |
+| **Cloud & DevOps** | Docker, AWS (S3), GitHub Actions, GitLab CI/CD, Jenkins |
+| **Observabilidade** | Prometheus, Grafana, Loki, OpenTelemetry |
+| **Outros** | Odoo (integrações ERP), Kotlin/Android, Selenium |
 
 ---
 
-## 🌎 Idiomas
+## Projetos em destaque
 
-- Português — Nativo  
-- Inglês — Leitura técnica
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [UserService](https://github.com/oswaldoschermach/UserService)
+
+API de gerenciamento de usuários com **Spring Boot 3.4** e **Java 17**.
+
+- Autenticação JWT e rate limiting
+- Redis, Flyway e PostgreSQL
+- Stack de observabilidade: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
+
+</td>
+<td width="50%" valign="top">
+
+### [speed-violation-service](https://github.com/oswaldoschermach/speed-violation-service)
+
+Microsserviço REST para apuração de infrações por excesso de velocidade.
+
+- Java 21, Spring Boot 3, PostgreSQL + Flyway
+- CI/CD com GitHub Actions, Docker e deploy documentado
+- API em produção: [speed-violation-api.nebulax.com.br](https://speed-violation-api.nebulax.com.br)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [super-senha-api](https://github.com/oswaldoschermach/super-senha-api)
+
+Backend multiplayer de jogo de adivinhação de palavras.
+
+- Salas, rodadas, ranking e níveis de dificuldade
+- Autenticação JWT e CRUD administrativo
+
+</td>
+<td width="50%" valign="top">
+
+### [axentra-landing-page](https://github.com/oswaldoschermach/axentra-landing-page)
+
+Landing page em **Angular 21** com foco em interface responsiva e entrega front-end.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Outros repositórios</strong> — estudos, exercícios acadêmicos e experimentos</summary>
+
+<br/>
+
+| Repositório | Contexto |
+|-------------|----------|
+| [projetosJava](https://github.com/oswaldoschermach/projetosJava) | Exercícios e estudos em Java |
+| [Estrutura-de-Dados](https://github.com/oswaldoschermach/Estrutura-de-Dados) | Material da disciplina de estruturas de dados |
+| [Curso-Arduino](https://github.com/oswaldoschermach/Curso-Arduino) | Programação de microcontroladores (UTFPR) |
+| [Jogo-da-Vida](https://github.com/oswaldoschermach/Jogo-da-Vida) | Simulação de autômatos celulares em C |
+| [atividades-android-turma2](https://github.com/oswaldoschermach/atividades-android-turma2) | Atividades de Kotlin/Android |
+
+</details>
 
 ---
 
-## ⚡ Filosofia de desenvolvimento
+## Experiência
 
-- Código simples > código inteligente  
-- Performance é feature  
-- Observabilidade não é opcional  
-- Escala se projeta, não se improvisa  
+```text
+Capgemini              Desenvolvedor Full Stack Pleno     set/2025 — atual
+VMtecnologia (Nayax)   Desenvolvedor Java PL              abr/2025 — set/2025
+Velsis                 Desenvolvedor de Software PL       ago/2022 — abr/2025
+Weipa                  Desenvolvedor de Software JR       mar/2022 — ago/2022
+UTFPR                  Estagiário de Desenvolvimento      out/2021 — mar/2022
+```
+
+**Destaques recentes:** APIs REST para pagamentos, integração com gateways e sistemas bancários, mensageria assíncrona (Kafka/RabbitMQ), transações financeiras, microsserviços em cloud e squads ágeis com foco em estabilidade e performance.
 
 ---
 
-## 📌 Observação
+## Formação
 
-Este GitHub reúne projetos, estudos e experimentos focados em backend, arquitetura e sistemas distribuídos, além de aplicações Android e integrações com Odoo.
+**Sistemas de Informação** — Universidade Tecnológica Federal do Paraná (UTFPR), Curitiba
+
+---
+
+## Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| Português | Nativo |
+| Inglês | Proficiência profissional |
+
+---
+
+## Princípios de engenharia
+
+```text
+Código simples antes de código inteligente
+Performance é requisito, não otimização tardia
+Observabilidade faz parte do desenho do sistema
+Escala se projeta — não se improvisa em produção
+```
+
+---
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=80&section=footer" alt="" width="100%"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/oswaldoschermach/">
+    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:oswaldo.schermach@gmail.com">
+    <img src="https://img.shields.io/badge/Email-oswaldo.schermach@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p><sub>Perfil de apresentação — projetos, estudos e experimentos em backend, arquitetura distribuída e integrações.</sub></p>
+
+</div>
