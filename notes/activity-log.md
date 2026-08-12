@@ -1112,3 +1112,4 @@ Registro de atualizações incrementais do perfil.
 - 2026-08-07: Atualização diária automática do activity log
 - 2026-08-10: Atualização diária automática do activity log
 - 2026-08-11: Atualização diária automática do activity log
+- 2026-08-12: Atualização diária automática do activity log
