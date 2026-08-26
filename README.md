@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header&text=Oswaldo%20Schermach&fontSize=42&fontColor=e2e8f0&animation=twinkling" alt="Oswaldo Schermach" width="100%"/>
 
 <p>
-  <strong>Desenvolvedor Full Stack Pleno</strong> &nbsp;|&nbsp; Java & Spring Boot &nbsp;|&nbsp; Microsserviços &nbsp;|&nbsp; Sistemas de Pagamento
+  <strong>Desenvolvedor Full Stack Sênior</strong> &nbsp;|&nbsp; Java & Spring Boot &nbsp;|&nbsp; Microsserviços &nbsp;|&nbsp; Sistemas de Pagamento
 </p>
 
 <p>
@@ -117,7 +117,7 @@ Landing page em **Angular 21** com foco em interface responsiva e entrega front-
 ## Experiência
 
 ```text
-Capgemini              Desenvolvedor Full Stack Pleno     set/2025 — atual
+Capgemini              Desenvolvedor Full Stack Sênior     set/2025 — atual
 VMtecnologia (Nayax)   Desenvolvedor Java PL              abr/2025 — set/2025
 Velsis                 Desenvolvedor de Software PL       ago/2022 — abr/2025
 Weipa                  Desenvolvedor de Software JR       mar/2022 — ago/2022
